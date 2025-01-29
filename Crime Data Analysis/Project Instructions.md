@@ -1,4 +1,4 @@
-Project Instructions with the table
+Project Instructions
 ==============================================================================================
 
 ## The Data
